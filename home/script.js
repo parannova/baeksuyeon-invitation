@@ -4,7 +4,7 @@ const eventDetails = {
   title: "윤춘석 님 백수연",
   address: "경상북도 영주시 풍기읍 풍기로 53",
   venue: "풍기관광호텔",
-  start: "20261114T033000Z",
+  start: "20261114T030000Z",
   end: "20261114T053000Z"
 };
 
